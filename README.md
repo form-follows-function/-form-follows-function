@@ -9,3 +9,7 @@ I spend my childhood in my parent's photographic studio for most of the time –
 
 I'am a tech-savvy open-source supporter, passionated about typography, 3D graphics, illustration, as well as software security. 
 If you want to get in touch send me an email hello at nelsonfritsch dot de.
+
+Enjoy my latest public illustration:
+
+![latest](/Users/nelson/Projekte/_github/form-follows-function/latest/latest.JPG)
